@@ -32,8 +32,8 @@ As a chat-implemented language model, Nusantara is highly capable of handling qu
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/naobyprawira/rag-llm-chatbot.git
-    cd rag-llm-chatbot
+    git clone https://github.com/naobyprawira/rag-llm-chatbot-api.git
+    cd rag-llm-chatbot-api
     ```
 
 2. Create a virtual environment and activate it:
